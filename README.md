@@ -8,12 +8,7 @@ Title-based Recommendations: Recommend movies similar to a selected movie title,
 User-based Recommendations: Recommend movies based on user similarity using cosine similarity.
 Interactive Widgets: Provide an interactive widget interface to get movie recommendations by genre.
 Installation
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/movie-recommendation-system.git
-cd movie-recommendation-system
 Install dependencies: Ensure that you have Python 3.8+ installed. Install the necessary dependencies by running:
 
 bash
